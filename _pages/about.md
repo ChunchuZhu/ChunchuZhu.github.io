@@ -31,7 +31,8 @@ Please find my [CV](./docs/CV.pdf) here for more about my research projects and 
 
 
 # 🔥 News
-- *2022.05*: &nbsp;🎉🎉 Chunchu attend ICRA 2022, and gave a talk and poster at the Learning Based Exoskeleton Control workshop.
+- *2022.08*: &nbsp;🎉🎉 Chunchu attend CASE 2022, and gave a presentation.
+- *2022.05*: &nbsp;🎉🎉 Chunchu attended ICRA 2022, and gave a talk and poster at the Learning Based Exoskeleton Control workshop.
 - *2022.05*: &nbsp;🎉🎉 First author paper was accepted by IEEE International Conference on Automation Science and Engineering (CASE), 2022.
 - *2022.03*: &nbsp;🎉🎉 Co-authored paper was accepted by Frontiers in Robotics and AI.
 - *2022.01*: &nbsp;🎉🎉 Chunchu Zhu started his Ph.D study at RAM lab, Rutgers University. 
@@ -57,11 +58,12 @@ Please find my [CV](./docs/CV.pdf) here for more about my research projects and 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 📖 Educations
-- *2022.01 - 2025.12 (Expected)*, Ph.D. in Mechanical Engineering, Rutgers, The State University of New Jersey(New Brunswick, NJ).
+- *2022.01 - Present*, Ph.D. in Mechanical Engineering, Rutgers, The State University of New Jersey(New Brunswick, NJ).
 - *2020.01 - 2022.12*, MSc in Mechanical Engineering, Case Western Reserve University(Cleveland, OH).
 - *2015.09 - 2019.06*, B.E. in Mechanical Engineering, Southern University of Science and Technology(China). 
 
 # 👨‍🏫 Teachings
+- *2023.06 - 2023.08*, Instrcutor, "Dynamic System and Control".
 - *2022.06 - 2022.08*, Instrcutor, "Dynamic System and Control".
 - *2022.01 - 2022.05*, Teaching Assistant, "MAE Senior Lab II".
 
