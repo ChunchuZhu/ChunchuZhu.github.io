@@ -49,13 +49,13 @@ Please find my [CV](./docs/CV.pdf) here for more about my research projects and 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div> -->
-- Wearable Sensing and Knee Exoskeleton Control for Awkward Gaits Assistance, **Chunchu Zhu**, Feng Han, Jingang Yi, **2022 IEEE 18th International Conference on Automation Science and Engineering(Accepted)**
-
-- A Dactyl-Integrated Sensor Design for Measuring Lake Waves, **Chunchu Zhu**, John Grezmak, Bryan Schmidt, Kathryn Daltorio, **Soft Robotics, Brief Communication(Submitted)**
-
+- **C. Zhu**, J. Yi, “Knee Exoskeleton-Enabled Balance Control of Human Walking Gait with Novel Foot Slip”, **Transactions on Mechatronics (Submitted)**
 - J. Zhou, Q. Nguyen, S. Kamath, Y. Hacohen, **C.Zhu**, M. J. Fu, and K. A. Daltorio, “Hands to hexapods, wearable user interface design for specifying leg placement for Legged Robots,” Frontiers in Robotics and AI, vol. 9, 2022.
 
-<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+- G. Sreenivasan, **C. Zhu* **, J. Yi, “Biomechanical Analysis of Human Knee Stiffness and Response to Exoskeleton Assistive Torques during Quiet Stance”, **Model. Est. Control Conf., 2023(Submitted)**
+- G. Sreenivasan, **C. Zhu**, J. Yi, “Neural Balance Control of Human Quiet Stance for Construc- tion Workers”, **2023 IEEE 19th International Conference on Automation Science and Engineering, Auckland, New Zealand(Submitted)**
+- **C. Zhu**, F. Han, J. Yi, “Wearable Sensing and Knee Exoskeleton Control for Awkward Gaits Assistance”, **in Proc. IEEE Conf. Automat. Sci. Eng., Mexico City, Mexico, 2022, pp. 2393–2398**
+
 
 # 📖 Educations
 - *2022.01 - Present*, Ph.D. in Mechanical Engineering, Rutgers, The State University of New Jersey(New Brunswick, NJ).
