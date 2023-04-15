@@ -52,7 +52,7 @@ Please find my [CV](./docs/CV.pdf) here for more about my research projects and 
 - **C. Zhu**, J. Yi, “Knee Exoskeleton-Enabled Balance Control of Human Walking Gait with Novel Foot Slip”, **Transactions on Mechatronics (Submitted)**
 - J. Zhou, Q. Nguyen, S. Kamath, Y. Hacohen, **C.Zhu**, M. J. Fu, and K. A. Daltorio, “Hands to hexapods, wearable user interface design for specifying leg placement for Legged Robots,” Frontiers in Robotics and AI, vol. 9, 2022.
 
-- G. Sreenivasan, **C. Zhu* **, J. Yi, “Biomechanical Analysis of Human Knee Stiffness and Response to Exoskeleton Assistive Torques during Quiet Stance”, **Model. Est. Control Conf., 2023(Submitted)**
+- **C. Zhu**, G. Sreenivasan, J. Yi, “Biomechanical Analysis of Human Knee Stiffness and Response to Exoskeleton Assistive Torques during Quiet Stance”, **Model. Est. Control Conf., 2023(Submitted)**
 - G. Sreenivasan, **C. Zhu**, J. Yi, “Neural Balance Control of Human Quiet Stance for Construc- tion Workers”, **2023 IEEE 19th International Conference on Automation Science and Engineering, Auckland, New Zealand(Submitted)**
 - **C. Zhu**, F. Han, J. Yi, “Wearable Sensing and Knee Exoskeleton Control for Awkward Gaits Assistance”, **in Proc. IEEE Conf. Automat. Sci. Eng., Mexico City, Mexico, 2022, pp. 2393–2398**
 
