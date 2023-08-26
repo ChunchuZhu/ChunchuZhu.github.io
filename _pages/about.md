@@ -31,7 +31,8 @@ Please find my [CV](./docs/CV.pdf) here for more about my research projects and 
 
 
 # 🔥 News
-- *2022.08*: &nbsp;🎉🎉 Chunchu attend CASE 2022, and gave a presentation.
+- *2023.06*: &nbsp;🎉🎉 Co-authored papers was accepted by IEEE-CASE and MECC.
+- *2022.08*: &nbsp;🎉🎉 Chunchu attended CASE 2022, and gave a presentation.
 - *2022.05*: &nbsp;🎉🎉 Chunchu attended ICRA 2022, and gave a talk and poster at the Learning Based Exoskeleton Control workshop.
 - *2022.05*: &nbsp;🎉🎉 First author paper was accepted by IEEE International Conference on Automation Science and Engineering (CASE), 2022.
 - *2022.03*: &nbsp;🎉🎉 Co-authored paper was accepted by Frontiers in Robotics and AI.
