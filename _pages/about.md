@@ -31,6 +31,8 @@ Please find my [CV](./docs/CV.pdf) here for more about my research projects and 
 
 
 # 🔥 News
+- *2023.09*: &nbsp;🎉🎉 Out MECC paper "Knee Stiffness in Assistive Device Control at Quiet Stance: A Preliminary Study -Gayatri Sreenivasan, Chunchu Zhu, Jingang Yi "  is selected for the Best Student Paper Award of the Robotics TC for 2023!
+- *2023.09*: &nbsp;🎉🎉 The slip-reciovery paper is accepted by IEEE-RAL!
 - *2023.06*: &nbsp;🎉🎉 Co-authored papers was accepted by IEEE-CASE and MECC.
 - *2022.08*: &nbsp;🎉🎉 Chunchu attended CASE 2022, and gave a presentation.
 - *2022.05*: &nbsp;🎉🎉 Chunchu attended ICRA 2022, and gave a talk and poster at the Learning Based Exoskeleton Control workshop.
@@ -50,11 +52,12 @@ Please find my [CV](./docs/CV.pdf) here for more about my research projects and 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div> -->
-- **C. Zhu**, J. Yi, “Knee Exoskeleton-Enabled Balance Control of Human Walking Gait with Novel Foot Slip”, **Transactions on Mechatronics (Submitted)**
+- **C. Zhu**, J. Yi, “Knee Exoskeleton-Enabled Balance Control of Human Walking Gait with Novel Foot Slip”, **IEEE Robotics and Automation Letters (RA-L)**
 - J. Zhou, Q. Nguyen, S. Kamath, Y. Hacohen, **C.Zhu**, M. J. Fu, and K. A. Daltorio, “Hands to hexapods, wearable user interface design for specifying leg placement for Legged Robots,” Frontiers in Robotics and AI, vol. 9, 2022.
 
-- **C. Zhu**, G. Sreenivasan, J. Yi, “Biomechanical Analysis of Human Knee Stiffness and Response to Exoskeleton Assistive Torques during Quiet Stance”, **Model. Est. Control Conf., 2023(Accepted)**
-- G. Sreenivasan, **C. Zhu**, J. Yi, “Neural Balance Control of Human Quiet Stance for Construc- tion Workers”, **2023 IEEE 19th International Conference on Automation Science and Engineering, Auckland, New Zealand(Accepted)**
+- **C. Zhu**, S. Maurya, J. Yi, A. Dutta, "Brain Computer Interface (BCI)-Enhanced Knee Exoskeleton Control for Assisted Sit-to-Stand Movement", **American Control Conference, 2024 (Submitted)**
+- **C. Zhu**, G. Sreenivasan, J. Yi, “Knee Stiffness in Assistive Device Control at Quiet Stance: A Preliminary Study”, **Model. Est. Control Conf., 2023**
+- G. Sreenivasan, **C. Zhu**, J. Yi, “Neural Balance Control of Human Quiet Stance for Construction Workers”, **2023 IEEE 19th International Conference on Automation Science and Engineering, Auckland, New Zealand**
 - **C. Zhu**, F. Han, J. Yi, “Wearable Sensing and Knee Exoskeleton Control for Awkward Gaits Assistance”, **in Proc. IEEE Conf. Automat. Sci. Eng., Mexico City, Mexico, 2022, pp. 2393–2398**
 
 
