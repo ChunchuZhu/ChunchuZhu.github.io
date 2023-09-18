@@ -31,7 +31,7 @@ Please find my [CV](./docs/CV.pdf) here for more about my research projects and 
 
 
 # 🔥 News
-- *2023.09*: &nbsp;🎉🎉 Out MECC paper "Knee Stiffness in Assistive Device Control at Quiet Stance: A Preliminary Study -Gayatri Sreenivasan, Chunchu Zhu, Jingang Yi "  is selected for the Best Student Paper Award of the Robotics TC for 2023!
+- *2023.09*: &nbsp;🎉🎉 Our MECC paper "Knee Stiffness in Assistive Device Control at Quiet Stance: A Preliminary Study -Gayatri Sreenivasan, Chunchu Zhu, Jingang Yi "  is selected for the Best Student Paper Award of the Robotics TC for 2023!
 - *2023.09*: &nbsp;🎉🎉 The slip-reciovery paper is accepted by IEEE-RAL!
 - *2023.06*: &nbsp;🎉🎉 Co-authored papers was accepted by IEEE-CASE and MECC.
 - *2022.08*: &nbsp;🎉🎉 Chunchu attended CASE 2022, and gave a presentation.
